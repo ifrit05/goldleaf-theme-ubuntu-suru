@@ -1,0 +1,13 @@
+{
+    "general": {
+        "externalRomFs": "/switch/Goldleaf/theme"
+    },
+    "ui": {
+        "background": "#e7ebed",
+        "base": "#ffffff",
+        "baseFocus": "#e95420",
+        "text": "#000000",
+		"progressBar": "#e95420",
+		"scrollBar": "#c6c7c8"
+    }
+}
